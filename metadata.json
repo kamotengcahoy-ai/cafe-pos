@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Café Point of Sale System",
+  "description": "A modern, secure small café POS with role-based access, owner authorization PIN approvals, recipe-driven ingredient inventory deduction, cashier shift reconciliation, expense and purchase tracking, and comprehensive sales reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
